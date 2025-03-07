@@ -1,0 +1,176 @@
+
+
+.topHeader{ text-align: center; }
+
+.topHeader h1{ 
+  font-size: 45px;
+  font-weight: bold;
+  padding: 10px 0px;
+  color: #0d6efd;
+  text-transform: uppercase;
+}
+
+.topHeader p{ 
+  font-size: 18px;
+  line-height: 28px;
+  color: #00317a;
+  font-weight: bold;
+  width: 90%;
+  display: inline-block;
+}
+
+.ourCtnFluid{
+   padding: 15px 0px;
+   box-shadow: #999 0px 5px 10px;
+   background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+}
+
+.flexBoxClass{ text-align: center; }
+
+.flexBoxClass>div{
+  padding: 10px 10px;
+  margin: 20px 10px;
+  box-shadow: #999 0px 5px 10px;
+  background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+}
+
+.flexBoxClass svg{
+  width: 60px;
+  height: 60px;
+ }
+
+.flexBoxClass h2{ 
+  font-size: 1.3rem; 
+  font-weight: bold;
+  padding: 5px 0px;
+  color: #0d6efd;
+  text-transform: uppercase;
+}
+.flexBoxClass p{ 
+  font-size: 16px;
+  line-height: 28px;
+  color: #001e4b;
+  font-weight: bold;
+  width: 90%;
+  display: inline-block;
+}
+
+.myPadding{ 
+  padding: 10px 0px;  
+}
+
+/* .loginRegister p{ width: 100%; display: inline-block; } */
+
+.loginRegister a{ 
+  color: #fff;
+  padding: 10px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  background-color: #0d6efd;
+  box-shadow: #555 0px 3px 5px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 10px;
+} 
+
+.loginRegister a:hover{ background-color: #001e4b; color: #fff; }
+
+.loginRegister p a{ 
+  color: #fff;
+  padding: 10px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  background-color: #0d6efd;
+  box-shadow: #555 0px 3px 5px;
+  text-decoration: none;
+  width: 100% !important;
+  display: inline-block;
+  margin: 10px 0px;
+} 
+
+.loginRegister p a:hover{ background-color: #001e4b; color: #fff; }
+
+nav a.active { color:red; text-decoration: none; }
+
+.removeRegister{
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+
+
+.loginPage{ 
+  width: 70%; 
+  margin: auto;
+  padding: 3%;   
+  background-color: #000;
+}
+
+.loginPage .loginRegister{
+  text-align: center;
+}
+
+.loginPage>div{ 
+  margin: 25px 0px;
+}
+
+.loginPage input{
+  width: 100%;
+  font-size: 15px;
+  padding: 8px 12px;
+  border: none;
+  border: #ccc solid 1px;
+ }
+
+ .loginPage p{
+  color: #fff;
+  margin: 0px 0px;
+  font-weight: bold;
+  font-size: 15px;
+ }
+
+ .loginPage h1{ 
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold; 
+}
+
+
+
+.registerPage{ 
+  width: 70%; 
+  margin: auto;
+  padding: 3%;   
+  background-color: #000;
+}
+
+.registerPage .loginRegister{
+  text-align: center;
+}
+
+.registerPage>div{ 
+  margin: 25px 0px;
+}
+
+.registerPage input{
+  width: 100%;
+  font-size: 15px;
+  padding: 8px 12px;
+  border: none;
+  border: #ccc solid 1px;
+ }
+
+ .registerPage p{
+  color: #fff;
+  margin: 0px 0px;
+  font-weight: bold;
+  font-size: 15px;
+ }
+
+ .registerPage h1{ 
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold; 
+}
